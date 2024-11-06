@@ -1,5 +1,5 @@
 # VLSI-DESIGN-Roadmap
-A roadmap for learning VLSI design using verilog and HDL. 
+A roadmap for learning VLSI design using verilog and HDL.
 
 
 VLSI-Roadmap
