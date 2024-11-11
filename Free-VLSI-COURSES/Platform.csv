@@ -4,4 +4,8 @@ Course,Platform,Key-features,Topics-Covered
 3. VLSI CAD: Logic to Layout,NPTEL,Illustrative videos--assignments--hands-on exercises,Design principles--digital and analog layout--DRC rules
 4. Introduction to VLSI CAD: Logic to Layout,Udemy,Practical projects--downloadable resources--lifetime access,VLSI design flow--CMOS fabrication--layout editing
 5. VLSI System Design,edX,Interactive learning modules--quizzes--virtual labs,Design methodologies--system-level design--FPGA programming
-6. CMOS VLSI Design,Coursera,Video lectures, peer-reviewed assignments, discussion forums,CMOS transistor operation, circuit design principles, chip layout
+6. CMOS VLSI Design,Coursera,Video lectures--peer-reviewed assignments--discussion forums,CMOS transistor operation--circuit design principles--chip layout
+7. VLSI CAD Part I: Logic,edX,Self-paced learning--hands-on labs--graded projects,Digital design--Verilog HDL--logic synthesis
+8. Low Power VLSI Circuit Design,Udacity,Real-world case studies--practical exercises--expert feedback,Power optimization techniques--clock gating--voltage scaling
+9. VLSI CAD Part II: Layout--Part III: Advanced Topics,MIT OpenCourseWare,Lecture notes--assignments--exams,Physical design--chip floorplanning--processor design
+10. MOS Transistors: Properties and Applications,Stanford Online,Video lectures--in-depth readings--quizzes--final exam,MOS transistor fundamentals--device characteristics--scaling principles
