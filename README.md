@@ -1,6 +1,11 @@
 # VLSI-DESIGN-Roadmap
 A roadmap for learning VLSI design using verilog and HDL.
 
+<p align="center">
+  <img src="http://www.winsok.tw/upload/202006/24/202006241442437656.jpg" width="1000" height="200" style="object-fit: cover;">
+</p>
+
+
 # VLSI Design Roadmap using Verilog and HDL
 
 This repository provides a structured roadmap for learning VLSI Design using Verilog and HDL. It’s organized from basic to advanced concepts, with recommended resources for each level.
