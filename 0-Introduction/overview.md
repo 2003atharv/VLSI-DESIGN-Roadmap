@@ -6,6 +6,10 @@ Learn about the basics of VLSI and why Verilog and HDL are essential in modern d
 
 VLSI (Very Large Scale Integration) is a process used to create integrated circuits by combining thousands to millions of transistors onto a single chip. This technology enables the development of complex systems, like processors and memory chips, making modern electronics faster, smaller, and more efficient.
 
+<p align="center">
+  <img src="https://vlsiweb.com/wp-content/uploads/2024/03/Introduction-to-VLSI.jpg" width="600" height="200" style="object-fit: cover;">
+</p>
+
 HDL (Hardware Description Language) is used to design and simulate digital circuits. Two main HDLs are Verilog and VHDL. Using HDL, engineers can describe how a circuit should behave at different levels (from simple logic gates to complex processors). HDLs are essential tools in VLSI, as they allow for the design, testing, and verification of integrated circuits before they are manufactured.
 
 In this repository, you’ll find a roadmap for learning VLSI and HDL, starting from the basics and progressing to more advanced topics. Whether you’re a beginner or looking to deepen your knowledge, this guide will provide resources and structured steps to help you understand and work with VLSI and HDL.
